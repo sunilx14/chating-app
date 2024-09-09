@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #333;
+    color: red;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav a {
+    color:green;
+    margin: 0 1rem;
+    text-decoration: none;
+}
+
+main {
+    padding: 2rem;
+}
+
+textarea {
+    width: 150%;
+    height: 200px;
+    margin-bottom: 1rem;
+}
+
+button {
+    background-color: #007BFF;
+    color: black;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
